@@ -1,1 +1,1 @@
-NOTE:-- Must include all the folders to run the program
+NOTE:-- Go to this path for the code --- src/com/internshala/javaapp
